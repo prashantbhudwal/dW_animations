@@ -1,5 +1,5 @@
 import "./App.css";
-import { Basics } from "./components/basics";
+import { Basics } from "./components/LO/basics";
 
 function App() {
   return (
